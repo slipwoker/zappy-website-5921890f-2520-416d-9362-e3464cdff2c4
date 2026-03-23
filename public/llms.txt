@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי מזוזות בעיצוב אישי שנוצרו במיוחד בשבילך. שומרת הבית מציעה יצירות יודאיקה ייחודיות המשלבות מסורת יהודית עם אמנות עכשווית. הזמיני עוד היום!
+
+### תהליך העיצוב
+https://example.com/design-process
+רוצה לדעת איך מזוזה בעיצוב אישי קמה לחיים? גלי את תהליך היצירה הייחודי שלנו, מהרעיון הראשוני ועד למוצר המוגמר שישמור על ביתך באהבה ובאמנות.
+
+### אודות
+https://example.com/about
+שומרת הבית נולדה מאהבה עמוקה למסורת יהודית ולאמנות. הכירי את האישה שמאחורי כל מזוזה מתנה לחנוכת בית ואת הערכים שמניעים כל יצירה שיוצאת מהסדנה שלנו.
+
+### צור קשר
+https://example.com/contact
+מוכנה להזמין מזוזה בעיצוב אישי שתשקף בדיוק את הסגנון שלך? צרי איתנו קשר עכשיו ונתחיל לתכנן יחד את היצירה המושלמת לביתך או כמתנה לחנוכת בית מרגשת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - שומרת הבית
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שומרת הבית
+
+### Category
+https://example.com/category/:slug
+מוצרים - שומרת הבית
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
